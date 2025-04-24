@@ -73,7 +73,7 @@ function Feed() {
         <div className="mb-5 rounded-2xl font-serif border-1 border-gray-300 hover:border-gray-500">
           <form className='flex p-2 gap-3 justify-around'>
             <CreateIcon />
-            <input className='w-full ml-1.5 outline-0 '
+            <input className="w-full ml-1.5 outline-0 "
               onChange={(e) => setInput(e.target.value)}
               value={input}
               required
