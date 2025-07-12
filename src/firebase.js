@@ -15,7 +15,6 @@ const firebaseConfig = {
   measurementId: "G-DEC2MSS8MV"
 };
 
-console.log(firebaseConfig)
 // Initializing services
 const app = initializeApp(firebaseConfig)
 const db = getFirestore(app);
