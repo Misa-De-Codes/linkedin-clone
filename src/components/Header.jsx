@@ -7,8 +7,6 @@ import WorkIcon from '@mui/icons-material/Work';
 import MessageIcon from '@mui/icons-material/Message';
 import NotificationsIcon from '@mui/icons-material/Notifications';
 
-
-
 export default function Header() {
   return (
     <div className='fixed top-0 left-0 w-screen md:justify-between flex h-15 shadow-md z-50 rounded-xl px-10 md:px-1 lg:px-18 bg-white'>

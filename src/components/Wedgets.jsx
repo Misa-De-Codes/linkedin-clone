@@ -1,6 +1,5 @@
 import React from 'react'
 
-
 function Wedgets() {
   return (
     <div className='hidden sticky top-17 h-fit self-start lg:flex flex-col flex-1/5 min-w-[200px] max-w-[300px] md:mr-10 mt-20 '>
